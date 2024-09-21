@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dee8597
+- 👋 Hi, I’m @Dee8597 - Sai Deepak Khetal
 - 👀 I’m interested in Data Analytics and Visualization
 - 🌱 I’m currently learning how to deal with large datasets
 - 💞️ I’m looking to collaborate on more projects 
