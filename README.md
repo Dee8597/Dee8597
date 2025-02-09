@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dee8597 - Sai Deepak Khetal
-- 👀 I’m interested in Data Analytics and Visualization
-- 🌱 I’m currently learning how to deal with large datasets
+- 👀 I’m interested in Generative AI, Data Engineering 
+- 🌱 I’m currently working on building chatbots using llms
 - 💞️ I’m looking to collaborate on more projects 
-- 📫 How to reach me via linkedin - https://www.linkedin.com/in/sai-deepak-844445182/
+- 📫 How to reach me via linkedin - https://www.linkedin.com/in/deepak-k-03a76b1b3/
 
 <!---
 Dee8597/Dee8597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
