@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dee8597 - Sai Deepak Khetal
-- 👀 I’m interested in Generative AI, Data Engineering 
+- 👀 I’m interested in Generative AI, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently working on building chatbots using llms
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me via linkedin - https://www.linkedin.com/in/deepak-k-03a76b1b3/
